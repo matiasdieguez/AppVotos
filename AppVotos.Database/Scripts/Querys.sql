@@ -1,0 +1,4 @@
+SELECT * FROM Votes
+
+
+INSERT INTO Votes VALUES (1, 10, 240)
